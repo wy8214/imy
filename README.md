@@ -58,8 +58,6 @@ imy是全WEB技术开发，可以在手机、电脑浏览器上实现跨平台�
 * 让终端APP不受环境限制，即时即用
 
 请体验 ：https://imy.1xmb.cn  
-联系QQ ：30055924
-
-
-![这是图片](https://imy.1xmb.cn/images/imy/login.png "login")
-![这是图片](https://imy.1xmb.cn/images/imy/my.png "my")
+联系QQ ：30055924  
+<img alt="这是图片" height="200" src="https://imy.1xmb.cn/images/imy/my.png" title="my" width="100"/>
+<img alt="这是图片" height="200" src="https://imy.1xmb.cn/images/imy/login.png" title="my" width="100"/>
