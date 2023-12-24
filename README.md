@@ -30,8 +30,7 @@ https://imy.1xmb.cn/download/main.rar
 * 畅聊无阻
 imy是全WEB技术开发，可以在手机、电脑浏览器上实现跨平台文字、图片、声音、视频全模态的畅通聊天
 
-
-![这是图片](https://imy.1xmb.cn/images/imy/2.png "my")
+<img alt="这是图片" height="300" src="https://imy.1xmb.cn/images/imy/2.png" title="my" width="500"/>
 
 ## 功能模块
 * 登陆 注册
@@ -46,10 +45,9 @@ imy是全WEB技术开发，可以在手机、电脑浏览器上实现跨平台�
 * 发送语音（仅移动端具备）
 * 发布朋友圈、点赞、评论、回复
 
-温馨提示：语音、视频聊天需要配置域名（国内必须备案）才能开启权限使用  
+温馨提示：语音、视频聊天需要配置域名（国内必须备案）才能开启权限使用
 
-
-![这是图片](https://imy.1xmb.cn/images/imy/5.png "my")
+<img alt="这是图片" height="300" src="https://imy.1xmb.cn/images/imy/5.png" title="my" width="500"/>
 
 **设置域名后，系统程序会自动取申请 https 证书，消息就实现加密传输，数据更加安全**
 
